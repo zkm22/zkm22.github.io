@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.7428c1e7.chunk.css",
-    "main.js": "./static/js/main.0b052e9c.chunk.js",
-    "main.js.map": "./static/js/main.0b052e9c.chunk.js.map",
+    "main.js": "./static/js/main.f244a72b.chunk.js",
+    "main.js.map": "./static/js/main.f244a72b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.773f9f12.js",
     "runtime-main.js.map": "./static/js/runtime-main.773f9f12.js.map",
     "static/js/2.42832d1a.chunk.js": "./static/js/2.42832d1a.chunk.js",
     "static/js/2.42832d1a.chunk.js.map": "./static/js/2.42832d1a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b3ac9d60a6394df91dbe89189961b1ae.js": "./precache-manifest.b3ac9d60a6394df91dbe89189961b1ae.js",
+    "precache-manifest.2203e717bd9690ed99af229be6c1b71b.js": "./precache-manifest.2203e717bd9690ed99af229be6c1b71b.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.7428c1e7.chunk.css.map": "./static/css/main.7428c1e7.chunk.css.map",
     "static/media/PlayMode.scss": "./static/media/Zpix.783bb457.ttf",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.773f9f12.js",
     "static/js/2.42832d1a.chunk.js",
     "static/css/main.7428c1e7.chunk.css",
-    "static/js/main.0b052e9c.chunk.js"
+    "static/js/main.f244a72b.chunk.js"
   ]
 }
