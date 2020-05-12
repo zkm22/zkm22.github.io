@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="30" height="35" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <!-- <filter id="shadow" width="200%" height="200%" x="-20%" y="-20%">
+    <feDropShadow dx="0" dy="0" stdDeviation="1" flood-color="white">
+      <animate
+        id="h"
+        attributeName="dy"
+        values="0;-5;0"
+        begin="2s;h.end+2s;"
+        dur="2s"
+        />
+    </feDropShadow>
+  </filter> -->
+</defs>
+<!-- <rect width="100%" height="100%" fill="green" /> -->
+<circle
+  cx="15" cy="25" r="0" stroke="yellow" stroke-width="1" fill="none"
+  style=""
+>
+  <animate
+    id="h"
+    attributeName="r"
+    values="4;9"
+    begin="0.3s;h.end+1s;"
+    dur="0.7s"
+    />
+  <animate
+    id="s"
+    attributeName="stroke-width"
+    values="2;0"
+    begin="0.3s;h.end+1s;"
+    dur="0.7s"
+    />
+</circle>
+<polyline
+  points="15 23, 10 13, 13 13, 13 3, 17 3, 17 13, 20 13, 15 23"
+  style="stroke-width:1px;stroke:yellow;fill:lightyellow;fill-opacity:1;"
+>
+  <animateMotion
+    id="t"
+    path="M0,0 L0,3 L0,0"
+    dur="0.7s"
+    begin="0s;t.end+1s;"
+    />
+</polyline>
+</svg>

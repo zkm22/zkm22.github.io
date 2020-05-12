@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a23eb15.chunk.css",
+    "main.js": "/static/js/main.403ab5b0.chunk.js",
+    "main.js.map": "/static/js/main.403ab5b0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0518e3d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0518e3d4.js.map",
+    "static/js/2.42832d1a.chunk.js": "/static/js/2.42832d1a.chunk.js",
+    "static/js/2.42832d1a.chunk.js.map": "/static/js/2.42832d1a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b1078e623bb114eacf2820c5b1832fb3.js": "/precache-manifest.b1078e623bb114eacf2820c5b1832fb3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0a23eb15.chunk.css.map": "/static/css/main.0a23eb15.chunk.css.map",
+    "static/media/PlayMode.scss": "/static/media/Zpix.783bb457.ttf",
+    "static/media/akkarin.jpg": "/static/media/akkarin.0c20d7e1.jpg",
+    "static/media/mashroom.png": "/static/media/mashroom.f8c78356.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0518e3d4.js",
+    "static/js/2.42832d1a.chunk.js",
+    "static/css/main.0a23eb15.chunk.css",
+    "static/js/main.403ab5b0.chunk.js"
+  ]
+}

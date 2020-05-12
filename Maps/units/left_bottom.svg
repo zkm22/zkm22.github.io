@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="30" height="30" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="shadow" width="200%" height="200%">
+    <feDropShadow dx="2" dy="2" stdDeviation="1" flood-color="gray" />
+  </filter>
+</defs>
+<polyline
+  points="12 0, 12 18, 30 18"
+  style="stroke-width:2px;stroke:#999999;fill:white;fill-opacity:0;filter:url(#shadow);"
+/>
+<polyline
+  points="18 0, 18 12, 30 12"
+  style="stroke-width:2px;stroke:#999999;fill:white;fill-opacity:0;filter:url(#shadow);"
+/>
+</svg>
