@@ -1,0 +1,5 @@
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 2 2 L 16 2 L 16 12 L 2 12 z" fill="red" stroke="black" />
+  <!-- <path d="M 5 0 L 10 5 L 5 10 L 0 5" fill="lightgray" /> -->
+  <line x1="2" x2="2" y1="12" y2="16" stroke="black" />
+</svg>

@@ -1,0 +1,252 @@
+{
+  ".solid/index.html": {
+    "file": "assets/index.4716b654.js",
+    "src": ".solid/index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/routes/[...404].tsx",
+      "src/routes/consumable.tsx",
+      "src/routes/develop.tsx",
+      "src/routes/index.tsx",
+      "src/routes/interview.tsx",
+      "src/routes/mindcontrol.tsx",
+      "src/routes/resume.tsx",
+      "src/routes/shop.tsx"
+    ],
+    "css": [
+      "assets/index.245e303c.css"
+    ]
+  },
+  "src/routes/[...404].tsx": {
+    "file": "assets/_...404_.b2358250.js",
+    "src": "src/routes/[...404].tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html"
+    ]
+  },
+  "src/routes/consumable.tsx": {
+    "file": "assets/consumable.1b22d818.js",
+    "src": "src/routes/consumable.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_jinzai.81a5eff4.js",
+      "_baseFrame.ff75265a.js",
+      "_skill.92f6c466.js"
+    ],
+    "css": [
+      "assets/consumable.7622302c.css"
+    ]
+  },
+  "_jinzai.81a5eff4.js": {
+    "file": "assets/jinzai.81a5eff4.js",
+    "imports": [
+      ".solid/index.html",
+      "_skill.92f6c466.js"
+    ],
+    "css": [
+      "assets/jinzai.0840f1c4.css"
+    ]
+  },
+  "_baseFrame.ff75265a.js": {
+    "file": "assets/baseFrame.ff75265a.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "css": [
+      "assets/baseFrame.c95fb363.css"
+    ]
+  },
+  "_skill.92f6c466.js": {
+    "file": "assets/skill.92f6c466.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "css": [
+      "assets/skill.5a0f6d4a.css"
+    ]
+  },
+  "src/routes/develop.tsx": {
+    "file": "assets/develop.b6c7dfa9.js",
+    "src": "src/routes/develop.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_rank.71a8a62d.js",
+      "_message_box.236d7606.js"
+    ],
+    "css": [
+      "assets/develop.2ae2740c.css"
+    ]
+  },
+  "_rank.71a8a62d.js": {
+    "file": "assets/rank.71a8a62d.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "css": [
+      "assets/rank.aede640b.css"
+    ]
+  },
+  "_message_box.236d7606.js": {
+    "file": "assets/message_box.236d7606.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "css": [
+      "assets/message_box.37407f3a.css"
+    ]
+  },
+  "src/routes/index.tsx": {
+    "file": "assets/index.82747f22.js",
+    "src": "src/routes/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_message_box.236d7606.js"
+    ],
+    "css": [
+      "assets/index.771632ea.css"
+    ]
+  },
+  "src/routes/interview.tsx": {
+    "file": "assets/interview.19a67743.js",
+    "src": "src/routes/interview.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_baseFrame.ff75265a.js",
+      "_resume.ff884bc1.js",
+      "_jinzai.81a5eff4.js",
+      "_rank.71a8a62d.js",
+      "_message_box.236d7606.js",
+      "_skill.92f6c466.js"
+    ],
+    "css": [
+      "assets/interview.f16ea2cf.css"
+    ]
+  },
+  "_resume.ff884bc1.js": {
+    "file": "assets/resume.ff884bc1.js",
+    "imports": [
+      ".solid/index.html",
+      "_skill.92f6c466.js"
+    ],
+    "css": [
+      "assets/resume.77265475.css"
+    ]
+  },
+  "src/routes/mindcontrol.tsx": {
+    "file": "assets/mindcontrol.56b8e5be.js",
+    "src": "src/routes/mindcontrol.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_baseFrame.ff75265a.js",
+      "_jinzai.81a5eff4.js",
+      "_item.c0b04a6d.js",
+      "_skill.92f6c466.js"
+    ],
+    "css": [
+      "assets/mindcontrol.b2497eb3.css"
+    ]
+  },
+  "_item.c0b04a6d.js": {
+    "file": "assets/item.c0b04a6d.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "css": [
+      "assets/item.cb736eaf.css"
+    ]
+  },
+  "src/routes/resume.tsx": {
+    "file": "assets/resume.3c0ae023.js",
+    "src": "src/routes/resume.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_baseFrame.ff75265a.js",
+      "_resume.ff884bc1.js",
+      "_skill.92f6c466.js"
+    ],
+    "css": [
+      "assets/resume.a6f26379.css"
+    ]
+  },
+  "src/routes/shop.tsx": {
+    "file": "assets/shop.389a6f80.js",
+    "src": "src/routes/shop.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_baseFrame.ff75265a.js",
+      "_message_box.236d7606.js",
+      "_item.c0b04a6d.js"
+    ],
+    "css": [
+      "assets/shop.8aa374db.css"
+    ]
+  },
+  "src/routes/index.css": {
+    "file": "assets/index.771632ea.css",
+    "src": "src/routes/index.css"
+  },
+  "rank.css": {
+    "file": "assets/rank.aede640b.css",
+    "src": "rank.css"
+  },
+  "resume.css": {
+    "file": "assets/resume.77265475.css",
+    "src": "resume.css"
+  },
+  "baseFrame.css": {
+    "file": "assets/baseFrame.c95fb363.css",
+    "src": "baseFrame.css"
+  },
+  ".solid/index.css": {
+    "file": "assets/index.245e303c.css",
+    "src": ".solid/index.css"
+  },
+  "jinzai.css": {
+    "file": "assets/jinzai.0840f1c4.css",
+    "src": "jinzai.css"
+  },
+  "skill.css": {
+    "file": "assets/skill.5a0f6d4a.css",
+    "src": "skill.css"
+  },
+  "item.css": {
+    "file": "assets/item.cb736eaf.css",
+    "src": "item.css"
+  },
+  "src/routes/develop.css": {
+    "file": "assets/develop.2ae2740c.css",
+    "src": "src/routes/develop.css"
+  },
+  "src/routes/shop.css": {
+    "file": "assets/shop.8aa374db.css",
+    "src": "src/routes/shop.css"
+  },
+  "message_box.css": {
+    "file": "assets/message_box.37407f3a.css",
+    "src": "message_box.css"
+  },
+  "src/routes/interview.css": {
+    "file": "assets/interview.f16ea2cf.css",
+    "src": "src/routes/interview.css"
+  },
+  "src/routes/consumable.css": {
+    "file": "assets/consumable.7622302c.css",
+    "src": "src/routes/consumable.css"
+  },
+  "src/routes/resume.css": {
+    "file": "assets/resume.a6f26379.css",
+    "src": "src/routes/resume.css"
+  },
+  "src/routes/mindcontrol.css": {
+    "file": "assets/mindcontrol.b2497eb3.css",
+    "src": "src/routes/mindcontrol.css"
+  }
+}
