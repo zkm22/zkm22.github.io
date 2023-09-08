@@ -5,15 +5,16 @@
   "/resume": [],
   "/shop": [],
   "/": [],
+  "/interview": [],
   "entry-client": [],
   "index.html": [
     {
       "type": "script",
-      "href": "/assets/index.550ed0bb.js"
+      "href": "/assets/index.2ab62acc.js"
     },
     {
       "type": "style",
-      "href": "/assets/index.fdb2c7df.css"
+      "href": "/assets/index.b3c59ffd.css"
     }
   ]
 }
